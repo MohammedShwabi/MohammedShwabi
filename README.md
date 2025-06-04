@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Nabeel 👋
 
-## Backend Developer | .NET Core Specialist | Passionate About Clean Code
+## Backend Developer | .NET Core & Microservices | Building scalable cloud APIs
 
 🚀 I’m a backend developer specializing in **.NET Core** and **API development**.  
 I love solving complex problems and building efficient, scalable, and secure applications. I'm always learning new technologies to stay up to date with industry best practices.
